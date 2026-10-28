@@ -2,7 +2,7 @@
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2B2B2B&height=200&section=header&text=Davi&fontSize=65&fontColor=FFFFFF&fontAlignY=32&desc=Software%20Engineering%20Student&descAlignY=48&descSize=16&descColor=FFFFFF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:2B2B2B&height=200&section=header&text=Davi&fontSize=65&fontColor=FFFFFF&fontAlignY=32&desc=Programming%20Student&descAlignY=48&descSize=16&descColor=FFFFFF" width="100%"/>
 
 <br>
 
