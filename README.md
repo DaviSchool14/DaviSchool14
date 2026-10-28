@@ -48,6 +48,8 @@
 <img src="https://skillicons.dev/icons?i=cs&theme=dark" width="42" height="42" alt="C#"/>
 <br><br>
 <sub><b>C#</b></sub>
+<br>
+<sub style="color:#8A8A8A;"><i>a aprender</i></sub>
 </td>
 
 <td align="center" width="140" style="background-color:#111111; border:1px solid #2B2B2B; border-radius:16px; padding:18px 10px;">
