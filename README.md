@@ -84,7 +84,7 @@
 <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" alt="Instagram"/>
 </a>
 &nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/davi-s-84a1a742a/">
+<a href="https://www.linkedin.com/in/davi-s-84a1a742a/?locale=en-US">
 <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" alt="LinkedIn"/>
 </a>
 
